@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>4fa15dc8-9cee-404d-a4ff-5167cd761edf</testSuiteGuid>
+   <testSuiteGuid>71876705-7c92-4c01-8d37-6da76e49d2df</testSuiteGuid>
    <testCaseLink>
-      <guid>d4446e23-1b42-4e4b-9b96-14b6603fd66d</guid>
+      <guid>64d09a44-f673-44a9-b623-e8322df54d39</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pencarian_Barang</testCaseId>

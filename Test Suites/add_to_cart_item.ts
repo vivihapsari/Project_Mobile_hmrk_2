@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>24d4d403-24fc-4537-893c-98634953fcab</testSuiteGuid>
+   <testSuiteGuid>5f0bcb8b-f1dc-4029-b9e7-17df0a49a850</testSuiteGuid>
    <testCaseLink>
-      <guid>4584103d-8e20-4c51-be7e-f833006e976e</guid>
+      <guid>ca609976-a422-4f29-ae34-e95f061a47c4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/add_to_cart_item</testCaseId>

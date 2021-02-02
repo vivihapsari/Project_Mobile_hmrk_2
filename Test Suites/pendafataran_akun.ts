@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Pendaftaran_Akun</name>
+   <name>pendafataran_akun</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>71221509-b767-4315-9988-d808445a54c4</testSuiteGuid>
+   <testSuiteGuid>21aecfff-f642-44a8-b561-b70a00642b57</testSuiteGuid>
    <testCaseLink>
-      <guid>57c0836f-a72d-4de5-9de4-df189dfd63b0</guid>
+      <guid>7fed7278-b5de-4ace-907f-a6c45c784b55</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Pendafataran_akun</testCaseId>
